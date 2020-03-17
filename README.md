@@ -10,6 +10,11 @@ For you to decide:
 - partition strategy
 - processing approach
 
+Have in mind:
+- number of time windows may increase
+- pagetype could include new types in the future
+- processing historical data ocurres often
+
 ##### input parameters to the process
 - pagetype – 'news, movies'
 - metrictype – 'fre, dur'
